@@ -9,14 +9,14 @@
 			font-family: 'Epic';
 			font-style: normal;
 			font-weight: 400;
-			src: local('Epic'), url('//massagehomestudio.se/fonts/Epic-Normal.woff2') format('woff2');
+			src: local('Epic'), url('https://massagehomestudio.se/fonts/Epic-Normal.woff2') format('woff2');
 		}
 
 		@font-face {
 			font-family: 'Metropolis';
 			font-style: normal;
 			font-weight: 500;
-			src: local('Metropolis'), url('//massagehomestudio.se/fonts/Metropolis-Medium.woff2') format('woff2');
+			src: local('Metropolis'), url('https://massagehomestudio.se/fonts/Metropolis-Medium.woff2') format('woff2');
 		}
    	</style>
     <g>
