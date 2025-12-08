@@ -366,6 +366,23 @@ footer a:hover {
     margin-left: 2em; /* Lite mindre marginal än tidigare */
 }
 
+/* Payment Methods in Footer */
+.payment-methods {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.payment-methods p {
+    margin-bottom: 10px;
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.8); /* Anpassad färg för bättre kontrast */
+}
+
+.payment-methods img {
+    height: 24px; /* Justerbar höjd för ikonerna */
+    margin: 0 8px;
+    vertical-align: middle;
+}
 
 /* ==========================================================================
    4. RESPONSIVITET
