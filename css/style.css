@@ -118,29 +118,8 @@ nav {
     align-items: center;
 }
 
-.logo-text {
-    font-family: 'Epic', sans-serif;
-    font-size: 1.5rem;
-    font-weight: 400;
-    color: var(--color-dark-green);
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-}
-
-.logo-text span {
-    font-family: 'Metropolis', serif;
-    color: var(--color-gold);
-    font-size: 0.7em;
-    letter-spacing: 3px;
-    display: block;
-}
-
-.leaf-icon {
-    width: 60px;
-    height: 60px;
+.logo-wide img {
+    height: 100px;
     fill: var(--color-green);
 }
 
@@ -395,10 +374,8 @@ footer a:hover {
         display: none;
     }
 
-    .logo-text {
-        flex-direction: column;
-        align-items: flex-start;
-        gap: 0;
+    nav {
+        justify-content: center; /* Centrerar loggan när nav-länkarna är dolda */
     }
 
     .hero h1 {
