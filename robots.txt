@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
 Disallow: /CNAME
+Disallow: /booking.html
 
 Sitemap: https://massagehomestudio.se/sitemap.txt
