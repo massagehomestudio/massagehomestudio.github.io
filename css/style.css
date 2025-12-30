@@ -1,7 +1,7 @@
 /*
  * Innehållsförteckning:
  * --------------------------------
- * 1. IMPORTS & VARIABLER
+ * 1. IMPORTER & VARIABLER
  *    - @font-face
  *    - :root (CSS Variabler / Färgpalett)
  *
@@ -26,8 +26,8 @@
 
 
 /* ==========================================================================
-   1. IMPORTS & VARIABLER
-   ========================================================================== */
+   1. IMPORTER & VARIABLER
+   ========================================================================= */
 
 /* Importerar anpassade typsnitt */
 @font-face {
