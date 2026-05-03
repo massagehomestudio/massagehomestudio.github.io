@@ -52,7 +52,7 @@
     --color-beige: #e3ddcd;
     --color-green: #868967;
     --color-dark-green: #535642;
-    --color-gold: #89724C;
+    --color-gold: #89724c;
 
     /* Neutrala färger */
     --color-white: #ffffff;
@@ -156,7 +156,7 @@ nav {
     font-size: 0.8rem;
 }
 
-/* --- Hero Section --- */
+/* --- Hero-sektion --- */
 .hero {
     text-align: center;
     padding: 80px 20px;
